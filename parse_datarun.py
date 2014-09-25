@@ -10,7 +10,7 @@ Usage:
     //for an example and help syntax
 
 Author: Matthew Seyer (research.forensics@gmail.com)
-Purpose: Print human readable versions of an NTFS Hex formatted datastring
+Purpose: Print human readable versions of an NTFS Hex formatted datarun
 
 Datarun Examples and references:
 http://www.reddragonfly.org/ntfs/concepts/data_runs.html
